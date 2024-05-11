@@ -1,0 +1,5 @@
+numpy==1.19.5
+matplotlib==3.4.2
+urllib3==1.26.6
+scikit-image==0.18.2
+jupyterlab==3.0.16
